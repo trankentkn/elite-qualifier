@@ -1,6 +1,6 @@
 # Title
 
-Simple (or clever and funny?) description
+ELite Qualifier for Elite 101
 
 ## Table of Contents
 
