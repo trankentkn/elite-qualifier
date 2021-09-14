@@ -1,6 +1,6 @@
 # Title
 
-ELite Qualifier for Elite 101
+Elite Qualifier for Elite 101
 
 ## Table of Contents
 
